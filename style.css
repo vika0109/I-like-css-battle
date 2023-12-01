@@ -1,0 +1,23 @@
+body{
+    margin:0;
+  }
+  .a {
+    width: px;
+    height: 50px;
+    background: #F7EC7D; 
+  }
+    .b{
+    width: px;
+    height: 50px;
+    background:#E38F66 ; 
+  }
+   .c{
+    width: px;
+    height: 100px;
+    background:#AA445F ; 
+  }
+  .d{
+    width: px;
+    height: 100px;
+    background:#62306D; 
+  }
